@@ -1,6 +1,11 @@
 CHANGELOG
 =========
 
+7.3
+---
+
+ * Add `$key` argument to `#[MapQueryString]` that allows using a specific key for argument resolving
+
 7.2
 ---
 
